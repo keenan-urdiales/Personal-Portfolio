@@ -14,6 +14,7 @@ function App() {
         <p>Added in some cool text</p>
         <p>Added in some dope pictures of rad stuff</p>
         <p>Here is a taco</p>
+        <p>Here is a section about my social media</p>
         <a
           className="App-link"
           href="https://reactjs.org"
