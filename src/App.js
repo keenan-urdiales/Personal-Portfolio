@@ -9,6 +9,8 @@ function App() {
         <p>
          Super dope webpage! Hire me please !!
         </p>
+        <p>Adding this to get my commits UP baby</p>
+        <p>Does this give me an extra commit??</p>
         <a
           className="App-link"
           href="https://reactjs.org"
