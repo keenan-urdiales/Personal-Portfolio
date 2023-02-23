@@ -13,7 +13,9 @@ function App() {
         <p>New project </p>
         <p>coming soon</p>
         <p>description</p>
+        <p>How these projects relate to languages</p>
         <a
+      
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
