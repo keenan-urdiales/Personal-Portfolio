@@ -17,6 +17,7 @@ function App() {
         <p>Images of projects</p>
         <p>project page</p>
         <p>Side column</p>
+        <p>Custom art</p>
         <a
       
           className="App-link"
