@@ -16,6 +16,7 @@ function App() {
         <p>How these projects relate to languages</p>
         <p>Images of projects</p>
         <p>project page</p>
+        <p>Side column</p>
         <a
       
           className="App-link"
