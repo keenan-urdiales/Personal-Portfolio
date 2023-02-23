@@ -11,6 +11,7 @@ function App() {
         </p>
         <p>My fav song</p>
         <p>New project </p>
+        <p>coming soon</p>
         <a
           className="App-link"
           href="https://reactjs.org"
