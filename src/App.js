@@ -18,6 +18,7 @@ function App() {
         <p>project page</p>
         <p>Side column</p>
         <p>Custom art</p>
+        <p>Fixed an edge case</p>
         <a
       
           className="App-link"
