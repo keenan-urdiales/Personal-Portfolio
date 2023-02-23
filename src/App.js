@@ -14,6 +14,7 @@ function App() {
         <p>coming soon</p>
         <p>description</p>
         <p>How these projects relate to languages</p>
+        <p>Images of projects</p>
         <a
       
           className="App-link"
