@@ -15,6 +15,7 @@ function App() {
        <p>List of languages</p>
        <p>Scrollex effect</p>
        <p>Sticky navbar</p>
+       <p>Bottom area</p>
         <a
       
           className="App-link"
