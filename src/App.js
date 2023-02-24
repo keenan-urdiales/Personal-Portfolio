@@ -17,6 +17,7 @@ function App() {
        <p>Sticky navbar</p>
        <p>Bottom area</p>
        <p>More photos</p>
+       <p>Form</p>
         <a
       
           className="App-link"
