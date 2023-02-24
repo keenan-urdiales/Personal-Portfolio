@@ -9,16 +9,7 @@ function App() {
         <p>
          Super dope webpage! Hire me please !!
         </p>
-        <p>My fav song</p>
-        <p>New project </p>
-        <p>coming soon</p>
-        <p>description</p>
-        <p>How these projects relate to languages</p>
-        <p>Images of projects</p>
-        <p>project page</p>
-        <p>Side column</p>
-        <p>Custom art</p>
-        <p>Fixed an edge case</p>
+       
         <a
       
           className="App-link"
