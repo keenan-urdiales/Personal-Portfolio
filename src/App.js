@@ -11,6 +11,7 @@ function App() {
         </p>
        <p>Hobbies and cool shiiat</p>
        <p>Links to socials</p>
+       <p> Resume</p>
         <a
       
           className="App-link"
