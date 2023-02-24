@@ -16,6 +16,7 @@ function App() {
        <p>Scrollex effect</p>
        <p>Sticky navbar</p>
        <p>Bottom area</p>
+       <p>More photos</p>
         <a
       
           className="App-link"
