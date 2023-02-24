@@ -9,7 +9,7 @@ function App() {
         <p>
          Super dope webpage! Hire me please !!
         </p>
-       
+       <p>Hobbies and cool shiiat</p>
         <a
       
           className="App-link"
