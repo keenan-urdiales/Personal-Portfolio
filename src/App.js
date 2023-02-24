@@ -13,6 +13,7 @@ function App() {
        <p>Links to socials</p>
        <p> Resume</p>
        <p>List of languages</p>
+       <p>Scrollex effect</p>
         <a
       
           className="App-link"
