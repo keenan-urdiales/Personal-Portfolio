@@ -14,6 +14,7 @@ function App() {
        <p> Resume</p>
        <p>List of languages</p>
        <p>Scrollex effect</p>
+       <p>Sticky navbar</p>
         <a
       
           className="App-link"
