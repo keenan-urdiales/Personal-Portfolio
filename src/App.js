@@ -9,15 +9,7 @@ function App() {
         <p>
          Super dope webpage! Hire me please !!
         </p>
-       <p>Hobbies and cool shiiat</p>
-       <p>Links to socials</p>
-       <p> Resume</p>
-       <p>List of languages</p>
-       <p>Scrollex effect</p>
-       <p>Sticky navbar</p>
-       <p>Bottom area</p>
-       <p>More photos</p>
-       <p>Form</p>
+    
         <a
       
           className="App-link"
