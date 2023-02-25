@@ -10,7 +10,7 @@ function App() {
          Super dope webpage! Hire me please !!
         </p>
         <p>Hobbies and cool shiiat</p>
-       
+       <p>Photos</p>
         <a
       
           className="App-link"
