@@ -6,13 +6,12 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-         Super dope webpage! Hire me please !!
-        </p>
-        <p>Hobbies and cool shiiat</p>
-       <p>Photos</p>
-       <p>Projects</p>
-       <p>Navbar</p>
+     
+      <p>navbar</p>
+      <p>footer</p>
+      <p>projects</p>
+      <p>resume</p>
+
         <a
       
           className="App-link"
