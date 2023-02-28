@@ -8,9 +8,9 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         
         <p>Resume</p>
+        <p>Projects</p>
         <p>Hobbies and cool shiiat</p>
        <p>Photos</p>
-       <p>Projects</p>
        <p>Navbar</p>
         <a
       
