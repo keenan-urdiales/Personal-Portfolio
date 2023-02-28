@@ -12,6 +12,7 @@ function App() {
       <p>footer</p>
       <p>projects</p>
       <p>project page</p>
+      <p>Lil mascot</p>
       <p>photos</p>
       <p>Hobbies</p>
       <p>Languages</p>
