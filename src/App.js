@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
      
       <p>navbar</p>
+      <p>About me</p>
       <p>footer</p>
       <p>projects</p>
       <p>photos</p>
