@@ -11,6 +11,7 @@ function App() {
       <p>About me</p>
       <p>footer</p>
       <p>projects</p>
+      <p>project page</p>
       <p>photos</p>
       <p>Hobbies</p>
       <p>Languages</p>
