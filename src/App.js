@@ -12,6 +12,7 @@ function App() {
       <p>projects</p>
       <p>photos</p>
       <p>Hobbies</p>
+      <p>Languages</p>
       <p>resume</p>
 
         <a
