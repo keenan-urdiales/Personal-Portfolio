@@ -9,7 +9,7 @@ function App() {
      
       <p>navbar</p>
       <p>footer</p>
-      <p>projects</p>
+      
       <p>resume</p>
 
         <a
