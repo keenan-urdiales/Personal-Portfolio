@@ -9,7 +9,8 @@ function App() {
         
         <p>Resume</p>
         <p>Projects</p>
-        
+        <p>Hobbies and cool shiiat</p>
+      
         <a
       
           className="App-link"
