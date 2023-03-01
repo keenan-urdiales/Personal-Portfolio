@@ -12,6 +12,7 @@ function App() {
         <p>Hobbies and cool shiiat</p>
         <p>Photos</p>
         <p>Navbar</p>
+        <p>footer</p>
         
         <a
       
