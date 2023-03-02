@@ -9,6 +9,7 @@ function App() {
         
         <p>Resume</p>
         <p>Mascot</p>
+        <p>edge case</p>
         <p>Projects</p>
         <p>Hobbies and cool shiiat</p>
         <p>Photos</p>
