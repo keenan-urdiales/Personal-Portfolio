@@ -16,7 +16,7 @@ function App() {
         <p>Photos</p>
         <p>Navbar</p>
         <p>projects page</p>
-       
+        <p>footer</p>
        
         <a
       
