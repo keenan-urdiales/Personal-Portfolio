@@ -9,8 +9,8 @@ function App() {
         
       
         <p>Resume</p>
-     
-       
+        <p>Mascot</p>
+   
         <a
       
           className="App-link"
