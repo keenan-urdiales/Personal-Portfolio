@@ -7,15 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         
-        <p>Resume</p>
-        <p>Mascot</p>
-        <p>edge case</p>
-        <p>Projects</p>
-        <p>Hobbies and cool shiiat</p>
-        <p>Photos</p>
-        <p>Navbar</p>
-        <p>projects page</p>
-        <p>footer</p>
+       
     
        
         <a
