@@ -11,6 +11,7 @@ function App() {
         <p>Mascot</p>
         <p>edge case</p>
         <p>Projects</p>
+        <p>Hobbies and cool shiiat</p>
         
 
     
