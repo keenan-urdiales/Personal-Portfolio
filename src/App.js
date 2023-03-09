@@ -14,6 +14,8 @@ function App() {
         <p>Hobbies and cool shiiat</p>
         <p>Photos</p>
         <p>Navbar</p>
+        <p>projects page</p>
+      
        
 
     
