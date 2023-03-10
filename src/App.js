@@ -16,6 +16,7 @@ function App() {
         <p>Navbar</p>
         <p>projects page</p>
         <p>footer</p>
+        <p>socials</p>
        
 
     
