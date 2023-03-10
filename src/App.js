@@ -12,7 +12,9 @@ function App() {
         <p>edge case</p>
         <p>Projects</p>
         <p>Hobbies and cool shiiat</p>
-        
+        <p>Photos</p>
+     
+       
 
     
        
